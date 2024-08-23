@@ -5,7 +5,7 @@
 - 🔭 I’m currently working on Backend
 - 🌱 I’m currently learning Advance JS
 
-- 💬 Ask me about : DSA problem, javascript 
+- 💬 Ask me about : DSA problem,Python, javascript, Web Development
 - 📫 How to reach me: mazharm325@gmail.com
 
 
